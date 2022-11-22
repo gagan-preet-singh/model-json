@@ -1,0 +1,14 @@
+{
+  "_output_dir": "C:\\Dev",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Gagan Preet Singh",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "s.gagan.preet@gmail.com",
+  "friendly_name": "Model Json",
+  "github_user": "gagan-preet-singh",
+  "license": "MIT",
+  "package_name": "model_json",
+  "project_name": "model-json",
+  "version": "0.0.0"
+}
